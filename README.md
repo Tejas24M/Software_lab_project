@@ -1,3 +1,3 @@
-# Software_lab_project
+# Software_lab_assignment
 
-Editing the Readme file for testing
+CS699 assignment
